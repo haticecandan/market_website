@@ -1,5 +1,7 @@
 # Candanimsi Market - Web Application
 
+<img width="1188" alt="Ekran Resmi 2023-09-21 13 45 12" src="https://github.com/haticecandan/market_website/assets/53252601/f2a464f1-74b5-40a2-90df-9268916d4b12">
+
 Candanimsi Market is a web application built using Flask and SQLite, designed for users to register, log in, view products in the market, purchase items, and return purchased items. Users are initially credited with $1000 upon registration.
 
 ## Features
@@ -26,5 +28,13 @@ Before you start, ensure you have the following requirements installed:
 
    ```shell
    git clone https://github.com/yourusername/candanimsi-market.git
+2. Change the directory to the project folder:
+      ```shell
+   cd candanimsi-market
+3. Create a virtual environment (optional but recommended):
+     ```shell
+     python -m venv venv
 
+
+   
 
