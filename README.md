@@ -48,7 +48,7 @@ Before you start, ensure you have the following requirements installed:
 ### Usage
 
 Run the Flask application:  
-   ```venv\Scripts\activate```
+   ```python run.py```
    
 Access the application in your web browser at http://localhost:5000.
 Register a new account, log in, and start using Candanimsi Market!
