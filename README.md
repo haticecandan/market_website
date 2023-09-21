@@ -27,14 +27,35 @@ Before you start, ensure you have the following requirements installed:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/candanimsi-market.git
+   git clone https://github.com/haticecandan/market_website.git
 2. Change the directory to the project folder:
       ```shell
-   cd candanimsi-market
+   cd market_website.git
 3. Create a virtual environment (optional but recommended):
      ```shell
      python -m venv venv
+4. Activate the virtual environment:
+ * Windows:
+    ```shell
+    venv\Scripts\activate
+* macOS/Linux:
+     ```shell
+     source venv/bin/activate
+5. Install the required dependencies:
+    ```shell
+    pip install -r requirements.txt
 
+### Usage
+
+Run the Flask application:  
+   ```venv\Scripts\activate```
+   
+Access the application in your web browser at http://localhost:5000.
+Register a new account, log in, and start using Candanimsi Market!
+      
+
+
+   
 
    
 
